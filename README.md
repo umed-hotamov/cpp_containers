@@ -15,7 +15,7 @@ Example of using `list/list.h`
 #include "list/list.h"
 
 int main() {
-    s21::List<int> list;
+    containers:List<int> list;
 
     list.push_back(10);
     list.push_back(20);
